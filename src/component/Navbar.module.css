@@ -1,0 +1,41 @@
+html{
+    font-size: 62.5%;
+}
+.main_container{
+    display: flex;
+    justify-content: space-between;
+    min-height: 6vh;
+    height:8.2rem;
+    width: 100%;
+    background-color: rgba(34, 32, 32, 0.671);
+    margin:0px;
+    padding: 0rem 4rem 0rem 4rem;
+    display: flex;
+    align-items: center;
+    border-radius: 1px;
+    z-index: 2;
+    position: fixed;
+    /* border-radius: 0 0 25px 25px; */
+    
+}
+.name img{
+/* font-weight: 700; */
+/* z-index: ; */
+width: 25rem;
+/* font-size: 35px; */
+/* color: white; */
+
+}
+#boot{
+    width: 40vw;
+    /* border: 2px solid black; */
+    display: flex;
+    height: 5rem;
+}
+#boot input{
+    /* width: 40vw; */
+    font-size: 2.8rem;
+}
+#boot button{
+    font-size: 2.9rem;
+}
