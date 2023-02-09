@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mausam1/static/css/main.5a2bc4da.css",
+    "main.js": "/Mausam1/static/js/main.944ad5b5.js",
+    "static/js/787.eb4491bd.chunk.js": "/Mausam1/static/js/787.eb4491bd.chunk.js",
+    "index.html": "/Mausam1/index.html",
+    "main.5a2bc4da.css.map": "/Mausam1/static/css/main.5a2bc4da.css.map",
+    "main.944ad5b5.js.map": "/Mausam1/static/js/main.944ad5b5.js.map",
+    "787.eb4491bd.chunk.js.map": "/Mausam1/static/js/787.eb4491bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a2bc4da.css",
+    "static/js/main.944ad5b5.js"
+  ]
+}
